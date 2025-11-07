@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Bruno S. Santos
 
-**`Desenvolvedor Web | Análista de T.I`**
+**`Desenvolvedor Web | Análista de T.I | Desenvolvedora Fullstack`**
 
 Olá! Me chamo Bruno Silva dos Santos, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unisinos. Sou apaixonado por tecnologia e por desenvolver novas interfacies em sistemas, apps ou websites. 
 
