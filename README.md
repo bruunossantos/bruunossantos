@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web | Análista de T.I`**
 
-Olá! Me chamo Bruno Silva dos Santos, tenho 21 anos e sou natural do Rio Grande do Sul. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unisinos. Sou apaixonado por tecnologia e por desenvolver novas interfacies em sistemas, apps ou websites. 
+Olá! Me chamo Bruno Silva dos Santos, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unisinos. Sou apaixonado por tecnologia e por desenvolver novas interfacies em sistemas, apps ou websites. 
 
 <p align="left">
     <a href="https://github.com/bruunossantos">
